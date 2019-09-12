@@ -2,7 +2,7 @@
 
 Ejercicio UI Automation
 
-# Setup en Windows
+## Setup en Windows
 
 - Es necesario tener instalados los siguientes programas:
     - Android Studio + AVD
@@ -15,7 +15,7 @@ Ejercicio UI Automation
 - Accedemos al archivo environment.py y escribimos la versión del Sistema Operativo del Dispositivo Virtual creado.
 
 
-# Ejecución de los Tests Cases
+## Ejecución de los Tests Cases
 
 Una vez tenemos todo preparado, realizamos los siguientes pasos:
 
